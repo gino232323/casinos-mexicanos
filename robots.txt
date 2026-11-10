@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gino232323.github.io/casinos-mexicanos/sitemap.xml
